@@ -39,7 +39,7 @@ ___
 ![mysql](./Project5%20Images/sudo%20mysql1.PNG)
 ![mysql](./Project5%20Images/sudo%20mysql2.PNG)
 
-### **Step 2 INSTALLING MYSQL (CLIENT) & SETTING UP THE SERVER TO ALLOW REMOTE CONNECTION**
+### **Step 3 INSTALLING MYSQL (CLIENT) & SETTING UP THE SERVER TO ALLOW REMOTE CONNECTION**
 ___
 
 >####  To install the mysql *`sudo apt install mysql-client`* .
